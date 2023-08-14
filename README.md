@@ -12,7 +12,7 @@ Each folder in this repository represents a different project or analysis. Here'
 - **Time Series Forecasting**
   - This folder contains notebooks where I apply time series analysis techniques to predict future trends in a specific domain.
 
-- **Project 3: Sentiment Analysis**
+- **Sentiment Analysis**
   - Here, I delve into sentiment analysis using natural language processing techniques to analyze the sentiment of customer reviews.
 
 - **Machine Learning Models**
